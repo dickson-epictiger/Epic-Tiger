@@ -6,8 +6,7 @@ if (isset($_SESSION['username'])) {
 }
 
 $message = '';
-$storedHashedPassword = '963e58316a3567ea122d3d318b2becc9775348150fcdc04f518acc87baae5873'; // zTO4SxqWbulEx2gUOsgJz4pvoCinTjRg2fOqnjO8sUYh3coqox
-ob_start();
+$storedHashedPassword = REMOVED
 ?>
 <!DOCTYPE html>
 <html lang="en">
